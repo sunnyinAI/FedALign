@@ -43,7 +43,7 @@ python main.py [Algorithm] -d [Dataset Name] [other arguments]
 
 python main.py FedAlign -d minidomainnet
 ```
-If you find this work usefu, please cite as
+If you find this work useful, please cite as
 
 ```bash
 @inproceedings{gupta2025fedalign,
