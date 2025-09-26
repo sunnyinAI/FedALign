@@ -130,11 +130,8 @@ if mod=="tsne":
     # checkpoint_path = (
     #     "out/FedMSFA/pacs/num_clients_per_domain_2/AugMix/combine_all/eta_1.0_delta_0.1"
     # )
-    # checkpoint_path = (
-    #     "/data1/sunny/CCRL_vs/FedCCRL/out/FedCCRL/pacs/2025-01-17-12:03:47"
-    # )
     checkpoint_path = (
-        "/data1/sunny/CCRL_vs/FedCCRL/out/FedCCRL/pacs/2025-01-17-12:03:47"
+        "/FedAlign/out/FedAlign/pacs/2025-01-17-12:03:47"
     )
     algo = "FedAlign"
     dataset = "pacs"
