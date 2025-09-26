@@ -27,7 +27,30 @@
 
 ---
 
-## 📁 Dataset Preparation
+Supported datasets include:
+- MiniDomainNet
+- PACS
+- OfficeHome
 
-To use a dataset, place it in the following directory structure:
+---
 
+## 🧪 How to Run
+
+You can run the training script using the following command:
+
+```bash
+python main.py [Algorithm] -d [Dataset Name] [other arguments]
+
+python main.py FedAlign -d minidomainnet
+```
+If you find this work usefu, please cite as
+
+```bash
+@inproceedings{gupta2025fedalign,
+  title={FedAlign: Federated Domain Generalization with Cross-Client Feature Alignment},
+  author={Gupta, Sunny and Sutar, Vinay and Singh, Varunav and Sethi, Amit},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={1801--1810},
+  year={2025}
+}
+```
