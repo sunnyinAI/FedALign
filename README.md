@@ -6,7 +6,7 @@
 
 ---
 
-## 🔍 Overview
+## Overview
 
 **FedAlign** is a lightweight, privacy-preserving framework for **Federated Domain Generalization (FedDG)** that enhances generalization to unseen domains without compromising data privacy. It addresses key challenges such as:
 
@@ -14,7 +14,7 @@
 - Non-i.i.d. data distributions across clients
 - Limited domain diversity
 
-### 🚀 Key Contributions
+### Key Contributions
 
 - **Cross-Client Feature Extension Module**  
   Enhances local domain representation using domain-invariant feature perturbation and selective cross-client feature transfer.
@@ -34,7 +34,7 @@ Supported datasets include:
 
 ---
 
-## 🧪 How to Run
+## How to Run
 
 You can run the training script using the following command:
 
