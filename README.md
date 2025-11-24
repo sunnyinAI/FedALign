@@ -2,7 +2,7 @@
 
 **Authors:** Sunny Gupta, Vinay Sutar, Varunav Singh, Amit Sethi  
 **Conference:** CVPR 2025  
-**Paper:** [arXiv:2501.15486](https://arxiv.org/abs/2501.15486)
+**Paper:** (https://openaccess.thecvf.com/content/CVPR2025W/FedVision/html/Gupta_FedAlign_Federated_Domain_Generalization_with_Cross-Client_Feature_Alignment_CVPRW_2025_paper.html)
 
 ---
 
